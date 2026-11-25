@@ -1,3 +1,0 @@
-/home/pi/MapsTest/build/CMakeFiles/pi_maps.dir
-/home/pi/MapsTest/build/CMakeFiles/edit_cache.dir
-/home/pi/MapsTest/build/CMakeFiles/rebuild_cache.dir

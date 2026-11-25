@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/pi_maps.dir/main.cpp.o -o pi_maps  /usr/lib/arm-linux-gnueabihf/libcurl.so 
