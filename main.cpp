@@ -32,7 +32,7 @@ int main() {
     std::string url = "https://maps.googleapis.com/maps/api/geocode/json?address=" +
                       std::string(escaped_addr ? escaped_addr : "") +
                       "&key=" + std::string(escaped_key ? escaped_key : "");
-
+#its possible to hardcode key here Im not doing it
     curl_free(escaped_addr);
     curl_free(escaped_key);
 
